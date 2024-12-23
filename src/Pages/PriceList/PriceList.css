@@ -1,0 +1,26 @@
+.preislist1 {
+    height: auto;
+    width: 1440px;
+    justify-content: space-around;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.frame2{
+    box-sizing: border-box;
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    padding: 3% 3%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.preis {
+    color: white;
+    font-size: x-large;
+} 

@@ -1,0 +1,24 @@
+.AboutUs {
+    height: auto;
+    width: 1440px;
+    justify-content: space-around;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.frame {
+    box-sizing: border-box;
+    width: 1200px;
+    margin: auto;
+    padding: 3% 3%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.text1 {
+    color: white;
+}

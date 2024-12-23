@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700&display=swap');
+
+.leftBlock a {
+    color: white;
+}
+
+.leftBlock a:hover {
+    color: yellow;
+}
+
+.sociallinks{
+    margin: 3% 0;
+}
+.sociallinksimage a{
+    
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.sociallinksimage{
+    /* margin: 10px 0; */
+    /* padding: 10px 0px; */
+    display: flex;
+    position: static;    
+}
+
+.rightBlock {
+    /* width: 430px; */
+    /* margin-left: auto; */
+    color: white;
+    /* tex */
+}
+
+
+.rightBlock a {
+    color: white;
+}
+
+.rightBlock a:hover {
+    color: yellow;
+}
+
+
+.footer {
+    background-color: black;
+    width: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    padding: 2% 1%;
+}
+
+.instagram {
+    margin-left: 34px;
+    background-image: url(./icons8-instagram1.svg);
+    width: 50px;
+    height: 50px;
+
+}
+.whatsapp {
+    margin-left: 50px;
+    background-image: url(./icons8-whatsapp1.svg);
+    width: 50px;
+    height: 50px;
+}
+
+.footertext{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1400px;
+    justify-content: space-between;
+    display: flex;
+    color: white;
+}
+
+.sociallinkstxt a{
+    text-decoration: none;
+    color: white;
+    margin-left: 14px;
+}
+
+.whatsapp:hover {
+    margin-left: 50px;
+    background-image: url(./icons8-whatsapp2.svg);
+    width: 50px;
+    height: 50px;
+}
+
+.instagram:hover {
+    margin-left: 34px;
+    background-image: url(./icons8-instagram2.svg);
+    width: 50px;
+    height: 50px;
+}
+
+.DatenschutzAGB{
+    margin: 10px 0;
+}

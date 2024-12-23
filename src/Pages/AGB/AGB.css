@@ -1,0 +1,13 @@
+.AGB {
+    box-sizing: border-box;
+    height: auto;
+    width: 1300px;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 11%;
+    padding: 3% 3%;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: black;
+}
