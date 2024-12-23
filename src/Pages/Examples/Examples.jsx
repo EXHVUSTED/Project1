@@ -1,6 +1,7 @@
 import React from "react"
 import s from './Examples.css' 
 // 123
+//primer
 
 export default function Examples() {
     let currentSlide = 0;
