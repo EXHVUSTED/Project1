@@ -5,23 +5,13 @@ export default function PriceList() {
     return (
         <div className="preislist1">
             <div className="frame2">
-                <h2 className="text1">1. gold</h2> 
-                <p className="text1">- 3-stuffen-Politur (effektive kratzenentfernyng und Lack Aufbereitung)</p>
-                <p className="text1">- Scheiben wischen </p>
-                <p className="text1">Flugrostentfernen</p>
-                <strong className="preis">Preis-140€</strong>
+                <p className="text1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. At, repellat cum sit earum optio incidunt. Rem iusto impedit qui earum eligendi libero consequuntur. Earum similique ad praesentium odit nihil sint architecto aut cumque voluptates molestiae perferendis, hic suscipit magni maiores sed! Odio, aliquid sapiente cum accusantium rerum soluta dignissimos deleniti.</p>
             </div>
             <div className="frame2">
-                <h2 className="text1">2. silber </h2>
-                <p className="text1">- 1 Stufen Politur (passt Effekt für Lacken ohne tiefen Kratzen)</p>
-                <p className="text1">- Flugrostentfernen</p>
-                <strong className="preis">Preis-100€</strong>
+                <p className="text1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. At, repellat cum sit earum optio incidunt. Rem iusto impedit qui earum eligendi libero consequuntur. Earum similique ad praesentium odit nihil sint architecto aut cumque voluptates molestiae perferendis, hic suscipit magni maiores sed! Odio, aliquid sapiente cum accusantium rerum soluta dignissimos deleniti.</p>
             </div>
             <div className="frame2">
-                <h2 className="text1">3. bronze</h2> 
-                <p  className="text1">- 1 Stufen Politur </p>
-                <p className="text1">- 1 Scheinwerfer Politur-30€</p>
-                <strong className="preis">Preis-60€</strong>
+                <p className="text1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. At, repellat cum sit earum optio incidunt. Rem iusto impedit qui earum eligendi libero consequuntur. Earum similique ad praesentium odit nihil sint architecto aut cumque voluptates molestiae perferendis, hic suscipit magni maiores sed! Odio, aliquid sapiente cum accusantium rerum soluta dignissimos deleniti.</p>
             </div>
         </div>
     )

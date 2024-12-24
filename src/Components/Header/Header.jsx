@@ -8,10 +8,10 @@ export default function Header() {
         <div class="link" className='home'>
           <a href='/' className='logo'></a>
           <ul class="link" className='navigation'>
-            <a href='/Examples'>Arbeitsbeispiele</a>
-            <a href='/AboutUs'>Uber uns</a>
-            <a href='/PriceList'>PriceList</a>
-            <a href="/Feedback">оформить заказ</a>
+            <a href='/Examples'>Examples</a>
+            <a href='/AboutUs'>About us</a>
+            <a href='/PriceList'>Price List</a>
+            <a href="/Feedback">Feedback</a>
           </ul>
         </div>
       </div>

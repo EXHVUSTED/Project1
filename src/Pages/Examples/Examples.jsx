@@ -27,7 +27,7 @@ export default function Examples() {
             showSlide(currentSlide - 1);
         }
 
-        // setInterval(nextSlide, 3000);
+        setInterval(nextSlide, 3000);
     return (
         <div className="examplespage">
             <div class="slider-container">
